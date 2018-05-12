@@ -1,1 +1,1 @@
-# praya
+# preya
